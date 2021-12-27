@@ -49,8 +49,5 @@ public class Login_Page extends Base_Test {
 		Assert.assertEquals(url, pageUrl);
 		return url;
 	}
-	public void m1(){
-		
-	}
-
+	
 }
